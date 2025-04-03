@@ -8,11 +8,14 @@
 </ol>
 
 <h2>Array Functions:<h2>
+<ol>
 <li>Find Maximum and Minimum in an array of numbers.</li>
 <li>Sum of all elements in an array.</li>
 <li>Filter out elements from an array </li>
-
+</ol>
+<ol>
 <h2>Mathematical Functions:<h2>
 <li>Factorial calculate </li>
 <li>Prime Number Check</li>
 <li>Fibonacci Sequence generate </li>
+</ol>
